@@ -1,8 +1,6 @@
 # How to become a better programmer
 
-Programming is difficult. There are so many documentation to read and understand. Many times,
-I need to read lots of code in short amount of time, also need to write large amount of code in short amount
-of time. If things get stuck and nothing can be found on the Internet, I have to fingure out myself.
+Here is a collection of tricks, methodologies, mechanic, craps, or anything you can think of, to become a programmer.
 
 
 # How to read doc?
@@ -22,9 +20,11 @@ of time. If things get stuck and nothing can be found on the Internet, I have to
 
 
 
-# Read to be better
+# Read, read, read
 
-# Build to be better
+# Build, build, Build
+
+# Read daily Horoscope
 
 # Understand a bit of your brain
 * https://www.youtube.com/watch?v=vd2dtkMINIw
