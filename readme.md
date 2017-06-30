@@ -138,5 +138,3 @@ Horoscope is usually correct and I can rely on that.
 
 # Understand a bit of your brain
 * https://www.youtube.com/watch?v=vd2dtkMINIw
-
-# Utilize daily Horoscope
