@@ -11,6 +11,11 @@ Here is a collection of tricks, methodologies, mechanic, craps, or anything you 
 * Chrome plugin 2: https://chrome.google.com/webstore/detail/reedy/ihbdojmggkmjbhfflnchljfkgdhokffj?hl=en
 
 ## Comprehension
+I will divide each line of paragraph into trunks. Read them and playback in my mind.
+
+## Combine speed reading and comprehension together
+My technique is that I will speed read one line of text, then close my eyes for 1-2 seconds, playback
+what I just read. Repeat for the next line.
 
 
 # How to read code?
