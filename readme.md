@@ -126,6 +126,10 @@ then go back and continue your task.
 # Build, build, Build
 
 # Read daily Horoscope
+There are daily horoscopes on website or newspaper. I will read mine (from different sources) at the beginning of the date. It may be a good day or bad day. If it is a bad day, I will be very careful and not to put important task on the day. If it is a good day, I will put more effort and push tasks to be finished.
+
+Horoscope is usually correct and I can rely on that.
+
 
 # Understand a bit of your brain
 * https://www.youtube.com/watch?v=vd2dtkMINIw
