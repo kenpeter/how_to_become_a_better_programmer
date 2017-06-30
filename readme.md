@@ -20,6 +20,13 @@ Here is a collection of tricks, methodologies, mechanic, craps, or anything you 
 
 
 
+# Daily standup 
+* Everyday, my team will have a standup meeting. We talk about what we did yesterday. What do we learn from them.
+* We set specific tasks can be completed before lunch time.
+* After lunch, we discuss how we progress and change our goals accordingly.
+* We do a final revew before we leave.
+* Repeat the same thing next day.
+
 # Read, read, read
 
 # Build, build, Build
@@ -29,4 +36,5 @@ Here is a collection of tricks, methodologies, mechanic, craps, or anything you 
 # Understand a bit of your brain
 * https://www.youtube.com/watch?v=vd2dtkMINIw
 
-# Daily Horoscope
+# Utilize daily Horoscope
+
